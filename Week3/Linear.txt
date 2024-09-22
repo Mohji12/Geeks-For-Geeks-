@@ -1,0 +1,29 @@
+1. Feature and Error should be independent of each Other
+# Multicolinearity Assumption
+2. X1 and x2 should be Completed independent of each Other and if not then model is not interpritable
+3. x1,x2,x3,x4 are independent variable and we try to predict all Feature value for diffenrent combination
+4. If Rsquare is Less then Feature in independent variable but Rsquare is more then Feature is dependent vairbale on each Other.
+5. Model Selection process 
+
+# 3 HeteroScedsticity
+# 1. Homoscedasticity Assumption
+# 2. Residuals should be randomly scattered around the horizontal axis
+# 3. If Residuals are not randomly scattered then model is not good
+the variance of the Error is same across then model is called Homoscedasticity.
+The Varaince of the Error is Changing then model is called HeteroScedsticity.
+
+# 4 Distribution opf the Error
+  All the Error Should be Closed to Zero and frequency should be more near Zero.
+  The Distribution Should be Normal Bell Shape Curve
+
+IN SLR we should high R2 Square
+
+IMP
+1. Error and Feature Should be independent of Each Other
+2.The Feature should be internaly independent each Other it will impact the interpritabilty of the model
+3. Varaince of the Error Should be Constant Homoscedasticity and variance of the Error is Changinh then it is HeteroScedsticity
+4. Error should be Normal Distributed with the frequency will be near to Zero
+
+
+The End Goal of Machine Learning Model to create model interpritable
+# Speed,HorsePower,Volume and weight
